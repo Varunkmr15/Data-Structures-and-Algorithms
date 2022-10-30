@@ -1,3 +1,6 @@
+TC: O(N)
+SC: O(N)
+ 
 struct Node  
 { 
   int key; 
