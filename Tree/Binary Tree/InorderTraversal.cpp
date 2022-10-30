@@ -1,5 +1,5 @@
 TC: O(N)
-SC: O(N)
+SC: O(H)   //H->Height Of Binary Tree
  
 struct Node  
 { 
