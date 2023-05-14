@@ -2,7 +2,7 @@
 // Adjacent swapping is the key
 // After adjacnet swaps the last element will be sorted
 // Time complexity: O(n^2) -> worst/average case
-// Can be optimised by keeping a check that if no swapping occur in any pass that means array is sorted
+// Can be optimised to O(n) by keeping a check that if no swapping occur in any pass that means array is sorted
 // and we can simply break out at that point of time
 
 #include <bits/stdc++.h>
